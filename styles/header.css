@@ -21,6 +21,11 @@
     color: var(--cinza-principal);
 }
 
+.container__link:hover {
+    color: var(--bordo);
+    transition: 0.5s;
+}
+
 .botoes {
     margin-top: 1.5em;
     padding: 1em 1rem;
