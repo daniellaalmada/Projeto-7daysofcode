@@ -1,0 +1,74 @@
+.vagas {
+    margin-top: 8em;
+}
+
+.vagas__enunciado {
+    text-align: center;
+    align-items: center;
+}
+
+.vaga__anuncio {
+    width: 10%;
+    align-items: center;
+    font-size: 14px;
+    color: var(--bordo);
+    background-color: var(--fundo-rosa);
+    padding: 0.7em 0;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+.vaga__titulo {
+    color: var(--cinza-escuro);
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0.7em 0;
+}
+
+.vaga__descricao {
+    color: var(--cinza-principal);
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 3.5em;
+}
+
+.vagas__imagem {
+    width: 80%;
+}
+
+.vagas__vagas {
+    margin: 3em 20em;
+}
+
+.vaga__tipo {
+    color: var(--cinza-escuro);
+    font-size: 20px;
+    padding: 2em 0;
+}
+
+.vaga__nome {
+    color: var(--cinza-escuro);
+    font-size: 18px;
+    padding: 1em 0;
+}
+
+.vagas__lista {
+    display: flex;
+    flex-direction: column;
+}
+
+.vaga__detalhe {
+    display: flex;
+    padding: 1em 0;
+}
+
+.vaga__item {
+    border: 1px solid var(--cinza-borda);
+    padding: 0.5em 3em;
+    border-radius: 16px;
+    margin-bottom: 1em;
+}
+
+.vaga__caracteristica {
+    margin-right: 1.5em;
+}

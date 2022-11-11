@@ -1,0 +1,33 @@
+.colaboradores {
+    text-align: center;
+    margin: 8em 8em 4em 8em;
+    padding: 4em 4em;
+    background-color: var(--fundo-rosa);
+}
+
+.colaboradores__avaliacao {
+    color: var(--bordo);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 1.5em 0;
+}
+
+.colaboradores__descricao {
+    color: var(--cinza-escuro);
+    font-size: 36px;
+}
+
+.desenvolvedora__imagem {
+    padding: 2em 0 1em 0;
+}
+
+.desenvolvedora__nome {
+    color: var(--cinza-escuro);
+}
+
+.desenvolvedora__titulo {
+    color: var(--cinza-principal);
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0.5em 0;
+}
